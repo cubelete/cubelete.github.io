@@ -1,1 +1,1 @@
-# cubelete.github.io
+[cubelete](https://cubelete.github.io/)
